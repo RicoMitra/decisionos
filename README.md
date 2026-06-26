@@ -98,7 +98,7 @@ Before deployment, run local browser checking for:
 4. No environment variables are required.
 5. Deploy on the Hobby plan.
 
-Production URL: not deployed yet.
+Production URL: https://decisionos-three.vercel.app/
 
 ## Project Knowledge
 
